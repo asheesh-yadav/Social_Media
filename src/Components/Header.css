@@ -1,0 +1,19 @@
+/* Headers */
+
+.nav-item {
+    padding-right: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Styles for the active tab (Home or Create Post) */
+  .active-tab {
+    background-color:#0D6EFD;
+    color: white;
+  }
+  
+  .nav-link:hover {
+   text-decoration: underline;
+    color: white;
+  }
+
